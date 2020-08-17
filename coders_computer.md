@@ -46,7 +46,7 @@ Through Mac, open launchpad and type >terminal>
   there are two paths: **absolute** and **relative**
   - **root directory (/)** is the top of the subdirectories
   
-- **~ (tilde)** shortcut for home directory
+- **~(tilde)** shortcut for home directory
 - **. (dot)** reference to current directory
 - **.. (dotdot)** this is a reference to parent directory on the hierarchical structure
 - **cd** allows for change in directory where we can move around through the system
