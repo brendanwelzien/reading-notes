@@ -1,4 +1,3 @@
-Document in your reading-notes the different classifications of text editors, and why it’s important for software developers to be thoughtful about their selection of what they use to write code.
 
 ## Text Editor 
 - Using a text editor is seen as a personal choice as they generally all perform the same functions
