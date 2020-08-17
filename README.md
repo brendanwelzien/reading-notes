@@ -22,7 +22,7 @@ What growth mindset means to me is: when faced with adversity, an individual con
 
 ### Table Of Contents
 - [Learning Markdown](learning_markdown.md)
-- [Coders Computer](coders_computer.md)
+- [Terminal Code & Text Editor](coders_computer.md)
 - [Class 3]()
 - [Class 4]()
 - [Class 5]()
