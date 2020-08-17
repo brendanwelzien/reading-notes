@@ -22,3 +22,9 @@ Lists are an important function that many would find beneficial for use.
 Term |Usage
 -----|------
 list | meaning
+
+*this is a table and it can be created as shown8
+
+Header 1 | Header 2
+-------- | --------
+Cell 1 content | Cell 2 Content
