@@ -25,6 +25,6 @@ list | meaning
 
 *this is a table and it can be created as shown, pipe should be pipe only, but is shown differently below for illustration of code purposes.*
 
-Header 1 (pipe |) Header 2
+Header 1 (pipe) Header 2
 --------| --------
 Cell 1 content | Cell 2 Content
