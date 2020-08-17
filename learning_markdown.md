@@ -23,8 +23,8 @@ Term |Usage
 -----|------
 list | meaning
 
-*this is a table and it can be created as shown8
+*this is a table and it can be created as shown, pipe should be aligned, but is misaligned below for illustration of code purposes.*
 
-(Header 1 | Header 2)
+Header 1    | Header 2
 -------- | --------
-(Cell 1 content | Cell 2 Content)
+Cell 1 content | Cell 2 Content
