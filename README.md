@@ -22,8 +22,11 @@ What growth mindset means to me is: when faced with adversity, an individual con
 
 ### Table Of Contents
 - [Learning Markdown](learning_markdown.md)
-- Class 2
-- Class 3
-- Class 4
-- Class 5
-- Class 6
+- [Class 2]()
+- [Class 3]()
+- [Class 4]()
+- [Class 5]()
+- [Class 6]()
+- [Class 7]()
+- [Class 8]()
+- [Class 9]()
