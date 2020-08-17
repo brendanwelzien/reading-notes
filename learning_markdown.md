@@ -14,4 +14,11 @@ Lists are an important function that many would find beneficial for use.
 - There are variances in the types of list one can employ: Unordered and Ordered
 
 ### Unordered
-*Unordered* asks for the start of your line '<google.com>'
+*Unordered* asks for the start of your line with * and can indent as well.
+
+## Ordered
+*Ordered* asks for the start of your line with 1.
+
+Term |Usage
+-----|------
+list | meaning
