@@ -122,20 +122,24 @@ London E2 7DP</p>
 </div><!-- .wrapper -->
 ```
 
-* <a> allows authors to place an element around a block level element that contains child elements
+```bash
+    <a>
+```
+* allows authors to place an element around a block level element that contains child elements
+
 
 
 
 ## *Chapter 8- Extra Markup*
 
-* due to several versions of html, each web page should start with <!DOCTYPE html> to tell the browser which version to use
+* due to several versions of html, each web page should start with (!DOCTYPE html>) to tell the browser which version to use
 
 * if you want to add a comment to code it is <!-- comment here -->
 * ID attributes is allows for style and no two elements can have the same attribute
 * class attribute is used to identify several elements
-* block elements start a new line including <h1>, <p>, <ul>, <li>
-* inline elements for keep words organized? <a>, <b>, <em>, <img>
-* grouping text and elements in a block <div>
+* block elements start a new line including h1, p, ul, li
+* inline elements for keep words organized? a, b, em, img
+* grouping text and elements in a block is div.
 
 ```bash
 <div id="header">
@@ -147,8 +151,10 @@ London E2 7DP</p>
 </div><!-- end of header -->
 ```
 
-* grouping text and elements inline is <span> (differentiates a text counterpart)
-* <iframe> is a window in a page where you can see another page like for displaying maps
+* grouping text and elements inline is < span > (differentiates a text counterpart)
+* iframe is a window in a page where you can see another page like for displaying maps
 
-* <meta> displays information about your page
+* meta displays information about your page
+
+
 [<= Back](README.md)
