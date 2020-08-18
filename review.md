@@ -12,3 +12,8 @@ Github
   - quotation
   - order and unordered list
   
+# Class 2 Review
+
+**Git**
+- HEAD = the label meaning <you are here
+- you can also assign messages to commits
