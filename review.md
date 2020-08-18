@@ -52,6 +52,8 @@ code 102 ls
 Get info from local computer to Github
 
 ```bash
-(A)dd(C)ommit(P)ush
+#(A)dd(C)ommit(P)ush
 git add .
+git commit -m "Made changes to text files"
+git push origin master
 ```
