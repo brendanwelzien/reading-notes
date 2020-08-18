@@ -28,4 +28,12 @@ Github
 - an online place to store your code
 - uses Git to help manage team's work
   - version tracking, reviewing changes, keeping changes separate until you want to add them in at different times
-**git clone** (link) to copy url into terminal
+ ***do not make changes directly on github anymore as it makes errors through terminal***
+ 
+**git clone** (link url) to copy url into terminal
+**git add** (file name) to add back to github
+**git status**
+**git commit** -m "change capitalizations and add some descriptive text"
+**git push** origin master
+documents/projects/codefellows/code102
+code 102 ls
