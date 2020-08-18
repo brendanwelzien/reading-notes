@@ -37,7 +37,7 @@
 
 **Tracking and Staging a New File**
 - single file = git add filename
-- all files= git add
+- all files= git add *
 - resetting = git reset
 
 **Committing a File**
@@ -59,4 +59,15 @@
 it is important to save my changes with why I saved them with a personal message to see what the changes were.
 - this taught me how to use the terminal to use vscode directly instead of github. I also learned how to save my data into messages so I have more organization with my coding.
 
+**to get to git master through terminal**
+
+1. pwd
+2. documents
+3. ls
+4. cd projects
+5. ls
+6. cd codefellows
+7. ls
+8. cd reading-notes
+9. code .
 [<= back](README.md)
