@@ -16,7 +16,15 @@ Github
 
 **Git**
 - HEAD = the label meaning 
-< you are here
-<
+> you are here
+>
 - you can also assign messages to commits
 - you use Git to take snapshots of your code at points in time
+
+**GitHub**
+> your code in the cloud
+>
+- a way to share code with others
+- an online place to store your code
+- uses Git to help manage team's work
+  - version tracking, reviewing changes, keeping changes separate until you want to add them in at different times
