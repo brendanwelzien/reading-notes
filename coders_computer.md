@@ -38,17 +38,21 @@ Through Mac, open launchpad and type >terminal>
 
 ### Shortcuts
 - **pwd**(print working directory) (tells you your current directory)
-- **ls** (gives our location and is short for >list>)
+- **ls** (gives our location and is also list items in a folder)
+- **touch** (this creates a file)
+- **cp** (copy command)
+- **brew** install programs
+- **mkdir** (make directory)
+- **code .** (references current directory to VSCode) (command to use to *open vs code*)
+- **~(tilde)** shortcut for home directory
+- **. (dot)** reference to current directory
+- **.. (dotdot)** this is a reference to parent directory on the hierarchical structure
+- **cd** allows for change in directory where we can move around through the system
 
 *Paths*
   - when we refer to a file or directory we are referring to a path: the way to get to a file or directory through the system
   there are two paths: **absolute** and **relative**
   - **root directory (/)** is the top of the subdirectories
-  
-- **~(tilde)** shortcut for home directory
-- **. (dot)** reference to current directory
-- **.. (dotdot)** this is a reference to parent directory on the hierarchical structure
-- **cd** allows for change in directory where we can move around through the system
 
 
 ### Other Notes
