@@ -37,3 +37,21 @@ Github
 **git push** origin master
 documents/projects/codefellows/code102
 code 102 ls
+
+# Class 4 Notes
+
+- Git is our version control (what changes we made along the way)
+- Github is the storage facility as well as the collaboration side
+
+**Git flow**
+- get info from Github to local computer
+
+```bash
+ git clone link_from_git_hub
+```
+Get info from local computer to Github
+
+```bash
+(A)dd(C)ommit(P)ush
+git add .
+```

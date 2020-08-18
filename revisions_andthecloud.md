@@ -64,7 +64,7 @@ it is important to save my changes with why I saved them with a personal message
 1. pwd
 2. documents
 3. ls
-4. cd projects
+4. cd projectsgit p
 5. ls
 6. cd codefellows
 7. ls
