@@ -52,7 +52,7 @@ Through Mac, open launchpad and type >terminal>
 
 *Paths*
   - when we refer to a file or directory we are referring to a path: the way to get to a file or directory through the system
-    -there are two paths: **absolute** and **relative**
+    - there are two paths: **absolute** and **relative**
   - **root directory (/)** is the top of the subdirectories
 
 
