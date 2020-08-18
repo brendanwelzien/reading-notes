@@ -41,15 +41,22 @@
 - resetting = git reset
 
 **Committing a File**
-- After staging one or multiple fies, you should commit the changes and record what you did by using      git commit -m "made change ....."
-- committing all changes is        git commit -a
+- After staging one or multiple fies, you should commit the changes and record what you did by using      git commit -a "made change ....."
+- committing all changes is        git commit -m or -a
+
+**Rule is ACP**
+- git add filename
+- git commit -m "personal message for me to remember what I saved"
+- git push origin master
+
 
 - pushing changes to a remote repository is.   git push origin master
 
 **stashing changes**
 - when you are not ready to commit to changes but do not want to lose them, use git stash to temporarily remove changes and hides them, then you can use git stash apply to retrieve hidden changes.
 
-
-
+**Clean git history**
+it is important to save my changes with why I saved them with a personal message to see what the changes were.
+- this taught me how to use the terminal to use vscode directly instead of github. I also learned how to save my data into messages so I have more organization with my coding.
 
 [<= back](README.md)
