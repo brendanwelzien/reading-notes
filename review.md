@@ -28,3 +28,4 @@ Github
 - an online place to store your code
 - uses Git to help manage team's work
   - version tracking, reviewing changes, keeping changes separate until you want to add them in at different times
+**git clone** (link) to copy url into terminal
