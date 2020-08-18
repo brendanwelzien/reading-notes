@@ -48,6 +48,7 @@ Through Mac, open launchpad and type >terminal>
 - **. (dot)** reference to current directory
 - **.. (dotdot)** this is a reference to parent directory on the hierarchical structure
 - **cd** allows for change in directory where we can move around through the system
+- **git** gitflow commands
 
 *Paths*
   - when we refer to a file or directory we are referring to a path: the way to get to a file or directory through the system
