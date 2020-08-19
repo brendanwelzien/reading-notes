@@ -91,4 +91,6 @@ EXAMPLE of COLOR ADDED
 - < h1 > sets the color of the heading use a hex code
     - there are two values for background-color property as 1. uses fallback color as a hex code
     2. HSLA value for browsers that support this method (angle, saturation, lightness, alpha) ?
+
+
 [<= Back](README.md)
