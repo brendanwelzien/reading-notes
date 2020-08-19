@@ -57,3 +57,10 @@ git add .
 git commit -m "Made changes to text files"
 git push origin master
 ```
+# Class 5 Notes
+
+**Semantic are tags that possess properties that are easy to understand**
+- sec vs div... makes accessbility more present
+
+**Wireframing is essential for organization for your coding**
+
