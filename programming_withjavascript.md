@@ -98,7 +98,7 @@ function askUserForName(){
     alert("Hello"+ userName);
     return userName;
 }
-askUserForName();
+var userName = askUserForName ();
 
 
 

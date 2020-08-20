@@ -104,4 +104,6 @@ git push origin master
   - make sure your right arm is fully through the arm section by verifying that your hand has fully gone through the arm section and that your hand is visibly present
   - then move onto your left arm.
   - hold your right arm at the base of the hoodie and make and then slide your left arm through the hoodie as explained for the right arm
-  - then pull down the hoodie over torso until made comfortabke
+  - then pull down the hoodie over torso until made comfortable
+
+  
