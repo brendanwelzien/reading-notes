@@ -39,7 +39,7 @@
     - once assigned a variable, you can tell it information or assign value
 
     - var quantity;
-    - quantity = 3;
+    - quantity= 3;
 
 **Data types**
 
@@ -52,15 +52,15 @@
 **shorthands for creating variables**
 1. variables declared then values are assigned in statement
 ```bash
-var price = 5;
+var price =5;
 var quantity =14;
-var total =price * quantity;
+var total =price*quantity;
 ```
 
 2. three variables are declared on the same line, then values are assigned to each
 
 ```bash
-3) var price, quantity, total ; 
+ var price, quantity, total; 
 price =5;
 quantity= 14;
 total =price * quantity;
@@ -69,7 +69,7 @@ total =price * quantity;
 3. two variables are declared and assigned values on the same line. Then one is declared and assigned a value on the next line
 
 ```bash
-var price = 5, quantity = 14;
+var price =5, quantity =14;
 var total = price * quantity;
 ```
 
@@ -87,5 +87,6 @@ var total = price * quantity;
 3. you cannot use **keyworkds or reserved** words.
 4. all variables are case sensitive
 5. use a name that describes the kind of info that the variable stores
+to add  js file into html  --><script src="app.js"></script>
 
 [<= Back](README.md)
