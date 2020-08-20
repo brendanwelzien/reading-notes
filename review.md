@@ -64,3 +64,44 @@ git push origin master
 
 **Wireframing is essential for organization for your coding**
 
+
+# Java Script Review Notes
+
+- Declaring Variables
+  var label;
+  var label = 'name'; ---> string
+  var labelAge= 45; ---> number
+  var labelAge= '45';
+  5 +5 = 10
+  '5' +'5' = '55'
+
+  boolean is true or false
+  array types = [1, 2, 3, 4]
+
+- prompting user for info
+  - prompt('Message to User');
+  - confirm('Messaage to User');
+
+- conditional statements
+  - does something = something else
+  - is something > than something
+  - is something < than something 
+  - is something equal or not equal to something
+
+- Teaching a robot how to wear a hoodie
+  - grab hoodie
+  - if it is a zipper hoodie, make sure to unzip it first, if not skip this step
+  - hold with both hands out in front of you
+  - turn around with front side facing away from you and is upright
+  - if it is a zipper hoodie, make sure to unzip it first, if not skip this step
+  - begin by grabbing the bottom of the hoodie on each side with your hands and prepare to insert from the top of your body
+  - put only yopur head and body through the hoodie, excluding the arms
+  - do this until your head and neck goes through the hooded section of the hoodie
+  - check to see if your head and neck are inside this section, verify that your vision is not obstructed and that your head and neck are inside of the hoodie
+  - insert your right your arm from the bottom of the hoodie while holding your left on the bottom left side of the hoodie
+  - make sure your right arm is inserted fully into arm section
+  - do this by sliding your right arm up first, and doing one arm at a time
+  - make sure your right arm is fully through the arm section by verifying that your hand has fully gone through the arm section and that your hand is visibly present
+  - then move onto your left arm.
+  - hold your right arm at the base of the hoodie and make and then slide your left arm through the hoodie as explained for the right arm
+  - then pull down the hoodie over torso until made comfortabke
