@@ -88,7 +88,8 @@ git push origin master
   - is something < than something 
   - is something equal or not equal to something
 
-- Teaching a robot how to wear a hoodie
+- Teaching a robot how to wear a hoodie, the importance of details
+
   - grab hoodie
   - if it is a zipper hoodie, make sure to unzip it first, if not skip this step
   - hold with both hands out in front of you
@@ -106,4 +107,82 @@ git push origin master
   - hold your right arm at the base of the hoodie and make and then slide your left arm through the hoodie as explained for the right arm
   - then pull down the hoodie over torso until made comfortable
 
+# Class 9 Review 
+
+* for loops / while loops
+
+* *For loop*
+  - known amount of time(s) that we want loop to run
+
   
+*While loop*
+  - unknown amount of time(s)... We want some condition to be met
+
+
+# Final Review 101
+
+## HTML
+
+- h1 should be only 1 on a page
+- h2-h6 should be unlimited
+
+## The bare minimum for a website
+
+```bash
+- <!DOCTYPE html)
+- <html>
+    <head>
+      <title> title goes here </title>
+    </head>
+    <body>
+    </body>
+  </html>
+  ```
+## CSS
+- float: is for moving / wrapping
+- id = "id2" (in html) for labeling a design block (can only be used once)
+-   in css - #id2 {
+  border: black;
+  vertical-align: auto;
+  etc.
+}
+
+- how to target all tags of one type of code... for example for <p>
+- p {
+  display: inline;
+}
+
+    - if only making a change of a p tag inside something else like <article>, you would have to give every p a tag of a class.. Or 
+article > p {
+  display: inline;
+}
+
+## Javascript
+- declaring a function (what happens in the function stays in the function)
+
+```bash
+function NameofFunction(){
+var userNameinsideoffunction= 'brendan'
+}
+```
+
+- using userName outside of the function will not work unless i do *return* inside the function... (return gives the data) 
+so
+
+```bash
+function NameofFunction(){
+  var userNameinsideoffunction= 'brendan'
+  return userNameinsideoffunction // this returns 'brendan'
+}
+    // 'brendan'
+var userNameoutsideoffunction= nameoffunction();
+```
+
+- loops
+- for loop
+  ( var i = 0; i<=10; i= i++){
+    console.log(i);
+  }
+- a single = is an assignment operator
+- a double = compares value and not type (try to stay away from it)
+- a triple = is an equal operator (compares value and type)
