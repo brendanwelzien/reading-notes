@@ -186,3 +186,4 @@ var userNameoutsideoffunction= nameoffunction();
 - a single = is an assignment operator
 - a double = compares value and not type (try to stay away from it)
 - a triple = is an equal operator (compares value and type)
+

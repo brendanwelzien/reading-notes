@@ -4,7 +4,7 @@
 - Object-oriented language
     - uses variables, loops, functions, and data to perform things
     -
-## Ducket pages 43-69
+## Duckett pages 43-69
 
 - html is content layer .html
 - css is presentation layer .css
@@ -84,7 +84,7 @@ var total = price * quantity;
 
 1. the name must start with a letter, $, or _, and it *cannot start with a number*
 2. the name *can contain* these afterwords, but you must not use a - or . in a variable name.
-3. you cannot use **keyworkds or reserved** words.
+3. you cannot use **keywords or reserved** words.
 4. all variables are case sensitive
 5. use a name that describes the kind of info that the variable stores
 to add  js file into html  --><script src="app.js"></script>
