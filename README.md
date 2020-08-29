@@ -1,5 +1,5 @@
 # reading-notes
-Reading notes for Code 102d18
+Reading notes for Courses 102-401
 
 ## About Me
 I am Brendan, I am a student for code-102d18.
@@ -20,7 +20,7 @@ What growth mindset means to me is: when faced with adversity, an individual con
 > I orchestrate my mornings to the tune of coffee.
 > anonymous
 
-### Table Of Contents
+### Table Of Contents 102
 - [Learning Markdown](learning_markdown.md)
 - [Terminal Code & Text Editor](coders_computer.md)
 - [Revisions and The Cloud](revisions_andthecloud.md)
@@ -30,3 +30,6 @@ What growth mindset means to me is: when faced with adversity, an individual con
 - [Programming with Javascript](programming_withjavascript.md)
 - [Operators and Loops](operators_andloops.md)
 - [Career Coaching](careercoaching.md)
+
+### Table of Contents 201
+- [Class 1](class-01.md)
